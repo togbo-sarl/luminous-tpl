@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  background: coral;
+  height: 100vh;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
